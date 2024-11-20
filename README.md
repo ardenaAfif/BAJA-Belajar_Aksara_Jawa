@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/ardenaAfif/Baja/blob/master/images/Baja_Logo2-removebg-preview.png" width="250">
+  <img src="https://github.com/ardenaAfif/Baja/blob/master/images/Baja_Logo-removebg-preview.png" width="250">
   <br>
 BAJA - Belajar Aksara Jawa
 </h1>
