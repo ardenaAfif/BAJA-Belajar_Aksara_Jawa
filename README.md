@@ -33,7 +33,7 @@ BAJA - Belajar Aksara Jawa
 
 
 ## How to Download
-<a href="https://play.google.com/store/apps/details?id=com.kuliah.pkm.tajwidify" target="_blank">
+<a href="https://play.google.com/store/apps/details?id=com.tama.amoled.baja" target="_blank">
   <img src="https://github.com/ardenaAfif/Baja/blob/master/images/google-play-badge.png" alt="Logo Play Store" width="200">
 </a>
 
