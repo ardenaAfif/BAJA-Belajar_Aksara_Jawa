@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/ardenaAfif/Baja/blob/master/images/Baja_Logo-removebg-preview.png" width="250">
+  <img src="https://github.com/ardenaAfif/BAJA-Belajar_Aksara_Jawa/blob/master/images/Baja_Logo-removebg-preview.png" width="250">
   <br>
 BAJA - Belajar Aksara Jawa
 </h1>
@@ -19,22 +19,22 @@ BAJA - Belajar Aksara Jawa
 
 ## Application Mockup
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/ardenaAfif/Baja/blob/master/images/home.jpg" width="200">
-    <img src="https://github.com/ardenaAfif/Baja/blob/master/images/contoh.jpg" width="200">
-    <img src="https://github.com/ardenaAfif/Baja/blob/master/images/praktek.jpg" width="200">
+    <img src="https://github.com/ardenaAfif/BAJA-Belajar_Aksara_Jawa/blob/master/images/home.jpg" width="200">
+    <img src="https://github.com/ardenaAfif/BAJA-Belajar_Aksara_Jawa/blob/master/images/contoh.jpg" width="200">
+    <img src="https://github.com/ardenaAfif/BAJA-Belajar_Aksara_Jawa/blob/master/images/praktek.jpg" width="200">
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/ardenaAfif/Baja/blob/master/images/bener.jpg" width="200">
-    <img src="https://github.com/ardenaAfif/Baja/blob/master/images/materi_liyane.jpg" width="200">
-    <img src="https://github.com/ardenaAfif/Baja/blob/master/images/subMateri.jpg" width="200">
+    <img src="https://github.com/ardenaAfif/BAJA-Belajar_Aksara_Jawa/blob/master/images/bener.jpg" width="200">
+    <img src="https://github.com/ardenaAfif/BAJA-Belajar_Aksara_Jawa/blob/master/images/materi_liyane.jpg" width="200">
+    <img src="https://github.com/ardenaAfif/BAJA-Belajar_Aksara_Jawa/blob/master/images/subMateri.jpg" width="200">
 </div>
 
 
 
 ## How to Download
 <a href="https://play.google.com/store/apps/details?id=com.tama.amoled.baja" target="_blank">
-  <img src="https://github.com/ardenaAfif/Baja/blob/master/images/google-play-badge.png" alt="Logo Play Store" width="200">
+  <img src="https://github.com/ardenaAfif/BAJA-Belajar_Aksara_Jawa/blob/master/images/google-play-badge.png" alt="Logo Play Store" width="200">
 </a>
 
 1. Click Button Download above.
